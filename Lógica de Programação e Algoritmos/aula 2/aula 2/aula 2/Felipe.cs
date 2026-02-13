@@ -7,7 +7,3 @@ public class program
         Console.WriteLine("Senai");
     }
 }
-    
-
-
-    
