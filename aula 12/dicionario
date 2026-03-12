@@ -1,0 +1,16 @@
+using static System.Console;
+//declaração de um dicionario
+Dictionary<string, int> pessoas = new Dictionary<string,int>()
+{
+    //adicionando dados ao dicionário
+    {"Sam Winchester", 28},
+    {"Castiel", 1000},
+    {"Bobby Singer", 60}
+};
+//adicionando dados ao dicionário
+pessoas.Add("Dean Winchester", 26);
+WriteLine(pessoas["Dean Winchester"]);
+WriteLine($"Tamanho = {pessoas.Count}");
+pessoas.Remove("Bobby Singer");
+WriteLine($"Tamanho = {pessoas.Count}");
+pessoas.Add("Lucifer", 2000);
