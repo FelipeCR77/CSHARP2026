@@ -1,4 +1,3 @@
-//Exercicio de lista com a estrutura de repetição for
 using static System.Console;
 
 //declaração de variaveis
@@ -8,7 +7,7 @@ List<double> numeros = new List<double>();
 Write("Quantos numeros deseja digitar? ");
 n = int.Parse(ReadLine());
 
-for (int i = 0; i < n; i++)
+for (int n = 0; i < n; i++)
 {
     Write("Digite um numero: ");
     numeros.Add(double.Parse(ReadLine()));
