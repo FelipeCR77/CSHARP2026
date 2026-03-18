@@ -1,0 +1,5 @@
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 01\Program.cs\Program.cs\obj\Debug\net10.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 01\Program.cs\Program.cs\obj\Debug\net10.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 01\Program.cs\Program.cs\obj\Debug\net10.0\Program.cs.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 01\Program.cs\Program.cs\obj\Debug\net10.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 01\Program.cs\Program.cs\obj\Debug\net10.0\Program.cs.sourcelink.json
