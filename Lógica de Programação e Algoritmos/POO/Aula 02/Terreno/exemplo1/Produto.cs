@@ -6,14 +6,20 @@ namespace exemplo1
 {
     internal class Produto
     {
-        //Campos
+        //Campos da classe
         public string nome;
         public double preco;
         public int quantidade;
         
 
             //Construtor
-            public Produto(string nome, double preco, int quantidade)
+        public produto(string nome,double preco)
+        {
+            this.nome = nome;
+            this.preco = preco;
+            quantidade = 0
+        }
+        public Produto(string nome, double preco, int quantidade)
         {
             this.nome = nome;
             this.preco = preco;
