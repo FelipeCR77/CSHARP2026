@@ -1,1 +1,14 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using Terreno;
+using static System.Console;
+
+Write("Digite a largura do terreno: ");
+double largura = double.Parse(ReadLine());
+Write("Digite o comprimento do terreno: ");
+double comprimento = double.Parse(ReadLine());
+Write("Digite o preço do m² do terreno: ");
+double valor = double.Parse(ReadLine());
+
+terreno t = new terreno(largura, comprimento, valor);
+t.Saida();
+ReadKey(); 
+
