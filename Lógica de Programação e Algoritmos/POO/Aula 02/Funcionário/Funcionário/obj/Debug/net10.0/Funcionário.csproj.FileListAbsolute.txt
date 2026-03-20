@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\Funcionário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\Funcionário.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\Funcionário.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\Funcionário.sourcelink.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\bin\Debug\net10.0\Funcionário.exe
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\bin\Debug\net10.0\Funcionário.deps.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\bin\Debug\net10.0\Funcionário.runtimeconfig.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\bin\Debug\net10.0\Funcionário.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\bin\Debug\net10.0\Funcionário.pdb
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\Funcionário.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\refint\Funcionário.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\Funcionário.pdb
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\Funcionário.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Funcionário\Funcionário\obj\Debug\net10.0\ref\Funcionário.dll

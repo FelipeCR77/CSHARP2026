@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\bin\Debug\net10.0\Notas.exe
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\bin\Debug\net10.0\Notas.deps.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\bin\Debug\net10.0\Notas.runtimeconfig.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\bin\Debug\net10.0\Notas.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\bin\Debug\net10.0\Notas.pdb
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\Notas.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\Notas.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\Notas.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\Notas.sourcelink.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\Notas.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\refint\Notas.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\Notas.pdb
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\Notas.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Notas\Notas\obj\Debug\net10.0\ref\Notas.dll
