@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\bin\Debug\net10.0\Circunferencia.exe
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\bin\Debug\net10.0\Circunferencia.deps.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\bin\Debug\net10.0\Circunferencia.runtimeconfig.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\bin\Debug\net10.0\Circunferencia.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\bin\Debug\net10.0\Circunferencia.pdb
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\Circunferencia.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\Circunferencia.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\Circunferencia.sourcelink.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\Circunferencia.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\refint\Circunferencia.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\Circunferencia.pdb
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\Circunferencia.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\POO\Aula 02\Circunferencia\Circunferencia\obj\Debug\net10.0\ref\Circunferencia.dll

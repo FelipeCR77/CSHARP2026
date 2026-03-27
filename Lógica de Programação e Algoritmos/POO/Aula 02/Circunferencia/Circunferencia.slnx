@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../../Aula 04/Circunferencia02/Circunferencia02.csproj" />
+  <Project Path="../../../Aula 04/Circunferencia03/Circunferencia03.csproj" />
+  <Project Path="Circunferencia/Circunferencia.csproj" />
+  <Project Path="dolar/dolar.csproj" />
+</Solution>
