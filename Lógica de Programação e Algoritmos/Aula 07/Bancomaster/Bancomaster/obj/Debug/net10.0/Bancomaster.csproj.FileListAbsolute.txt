@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\Bancomaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\Bancomaster.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\Bancomaster.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\Bancomaster.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\Bancomaster.sourcelink.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\bin\Debug\net10.0\Bancomaster.exe
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\bin\Debug\net10.0\Bancomaster.deps.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\bin\Debug\net10.0\Bancomaster.runtimeconfig.json
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\bin\Debug\net10.0\Bancomaster.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\bin\Debug\net10.0\Bancomaster.pdb
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\Bancomaster.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\refint\Bancomaster.dll
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\Bancomaster.pdb
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\Bancomaster.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSHARP2026\Lógica de Programação e Algoritmos\Aula 07\Bancomaster\Bancomaster\obj\Debug\net10.0\ref\Bancomaster.dll
