@@ -1,9 +1,49 @@
 ﻿using Figuras.Classes.Entidades;
 using Figuras.Classes.Enumerações;
-Forma geo1 = new Forma(Cor.Vermelho);
-Forma geo2 = new Retangulo(Cor.Azul,10, 10 );
-Forma geo3 = new Circulo(Cor.Rosa,5);
+using static System.Console;
 
-Console.WriteLine($"Geo 1 - Tipo Forma : Area = {geo1.Area()})" +
-    $"\nGeo 2 - tipo Forma -> Retangulo : Area = {geo2.Area()}" +
-    $"\nGeo 3 - tipo Forma -> Circulo : Area = {geo3.Area()}");
+List<Forma> formas = new();
+
+Write("Entre com a quantidade de formas: ");
+int qtd = int .Parse(ReadLine());
+
+for (int i = 0; i < qtd; i++)
+{
+  Write($"Dados do objeto geométrico nº {i + 1}:");
+Write($"Retângulo ou Círculo (r/c)? ");
+    char escolha = char.Parse(ReadLine().ToLower());
+    if (escolha == 'r')
+    {
+WriteLine("Qual é a cor do objeto?" +
+    "\n\t1 - Vermelho" +
+    "\n\t2 - Azul" +
+    "\n\t3 - Amerelo" +
+    "\n\t4 - Rosa");
+        int cor = int.Parse(ReadLine());
+    WriteLine("Digite a largura do retângulo: ");
+        double l = double.Parse(ReadLine());
+        Write("Digite a altura do retângulo: ");
+        double a = double.Parse(ReadLine());
+        formas.Add(new Retangulo((Cor)cor,l, a));
+    }
+    else if (escolha == 'c')
+    {
+        WriteLine("Qual é a cor do objeto?" +
+    "\n\t1 - Vermelho" +
+    "\n\t2 - Azul" +
+    "\n\t3 - Amerelo" +
+    "\n\t4 - Rosa");
+        int cor = int.Parse(ReadLine());
+        Write("Digite o raio da circunferência: ");
+        double r = double.Parse(ReadLine());
+        formas.Add(new Circulo((Cor)cor,r));
+
+
+
+    }
+}
+foreach (var figurinhas in formas)
+{
+    Write(figurinhas.ToString());
+}
+

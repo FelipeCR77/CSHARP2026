@@ -1,7 +1,7 @@
 ﻿using Figuras.Classes.Contratos;
 namespace Figuras.Classes.Enumerações;
 
-internal class Forma : IArea
+abstract internal class Forma : IArea
 {
     /// </summary>
     /// Cores disponíveis Vermelho, Azul e Amerelo
@@ -20,8 +20,5 @@ internal class Forma : IArea
         set { cor = value; }
     }
     //Método
-    public virtual double Area()
-    {
-        throw new NotImplementedException();
-    }
+    abstract public double Area();
 }
