@@ -9,7 +9,7 @@ namespace ImpostoDeRenda.Classes.Entidades
         private double nome;
         private double rendaAnual;
         private double gastoSaude;
-        private double Funcionarios;
+        private double funcionarios;
         // Propriedades
         protected double Nome
         {
@@ -21,10 +21,17 @@ namespace ImpostoDeRenda.Classes.Entidades
             get { return rendaAnual; }
             set { rendaAnual = value; }
         }
-        protected double GastoSaude
-        { get { return gastoSaude; } }
+        protected double GastoSaude { 
+         get { return gastoSaude; }
+         set {gastoSaude = value; }
+        }
+
+
+
         protected double Funcionarios
-        { get { return Funcionarios; } }
+        { get { return funcionarios; }
+            set { funcionarios = value; }
+        }
 
         // Construtor
         private Contribuientes(double nome, double rendaAnual, double gastoSaude, double funcionarios)
@@ -34,10 +41,11 @@ namespace ImpostoDeRenda.Classes.Entidades
             this.gastoSaude = gastoSaude;
             this.Funcionarios = funcionarios;
         }
-        public override string ToString() {
-            return $"{nome}: $ {Imposto().ToString("F2")}";
-
-
+        public override string ToString()
+        {
+            return $"{nome}: $ {Imposto():C}";
         }
-}
+
+        protected abstract object Imposto();
+    }
 }

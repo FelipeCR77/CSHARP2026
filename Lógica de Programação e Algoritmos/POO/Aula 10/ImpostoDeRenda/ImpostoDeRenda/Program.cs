@@ -1,11 +1,45 @@
 ﻿using static System.Console;
-//Fazer um programa para ler os dados de N contribuintes (N fornecido pelo usuário), os quais podem ser pessoa física ou pessoa jurídica, e depois mostrar o valor do imposto pago por cada um, bem como o total de imposto arrecadado.
-
-namespace ImpostoDeRenda
+Write(" é pessoal física ou jurídica? (f/j) ");
+char escolha = char.Parse(ReadLine()!);
+Write("Digite o valor do salário: ");
+double salario = double.Parse(ReadLine()!);
+Console.WriteLine(salario);
+Write("Digite o valor do gasto com saúde: ");
+double gastoSaude = double.Parse(ReadLine()!);
+for (int i = 0; i < 1; i++)
 {
-    internal class Program
+    if (salario > 20000.00)
     {
-        
-        }
+        double imposto = salario * 0.25 - gastoSaude * 0.50;
+        Console.WriteLine($"O imposto a ser pago é: {imposto.ToString("F2")}");
     }
+    else
+    {
+        double imposto = salario * 0.15 - gastoSaude * 0.50;
+        Console.WriteLine($"O imposto a ser pago é: {imposto.ToString("F2")}");
+    }
+}
+if (escolha == 'j')
+{
+    Write("Digite o número de funcionários: ");
+    int funcionarios = int.Parse(ReadLine()!);
+    if (funcionarios < 10)
+    {
+        double imposto = salario * 0.16;
+        Console.WriteLine($"O imposto a ser pago é: {imposto.ToString("F2")}");
+    }
+    else
+    {
+        double imposto = salario * 0.14;
+        Console.WriteLine($"O imposto a ser pago é: {imposto.ToString("F2")}");
+    }
+}
+if (escolha == 'f')
+{
+    double imposto = salario * 0.15 - gastoSaude * 0.50;
+    Console.WriteLine($"O imposto a ser pago é: {imposto.ToString("F2")}");
+}
+
+
+
 

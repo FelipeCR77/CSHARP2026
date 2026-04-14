@@ -5,8 +5,8 @@ namespace ImpostoDeRenda.Classes.Entidades
     {
         // Campos
         private string nome;
-        private string rendaAnual;
-        private string funcionarios;
+        private double rendaAnual;
+        private int funcionarios;
 
         // Propriedades
         protected string Nome
@@ -14,7 +14,7 @@ namespace ImpostoDeRenda.Classes.Entidades
             get { return nome; }
             set { nome = value; }
         }
-        protected string RendaAnual
+        protected double RendaAnual
         {
             get { return rendaAnual; }
             set { rendaAnual = value; }
@@ -22,14 +22,14 @@ namespace ImpostoDeRenda.Classes.Entidades
         protected string Funcionarios;
 
         // Construtor
-        protected PessoaJuridica(string nome, string rendaAnual, string funcionarios)
+        protected PessoaJuridica(string nome, double rendaAnual, int funcionarios)
         {
             this.nome = nome;
             this.rendaAnual = rendaAnual;
             this.funcionarios = funcionarios;
         }
         // Método
-        abstract protected double Imposto();
+        protected double Imposto()
          {   double imposto;
             if (funcionarios < 10)
             {
@@ -44,5 +44,6 @@ namespace ImpostoDeRenda.Classes.Entidades
 
     }
 }
+
 
 

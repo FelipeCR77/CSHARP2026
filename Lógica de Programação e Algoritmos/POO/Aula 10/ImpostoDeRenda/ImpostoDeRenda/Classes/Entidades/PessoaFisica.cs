@@ -6,8 +6,8 @@ namespace ImpostoDeRenda.Classes.Entidades
     {
         //Campos
         private string nome;
-        private string rendaAnual;
-        private string gastoSaude;
+        private double rendaAnual;
+        private double gastoSaude;
 
         //Propriedades
         protected string Nome
@@ -15,16 +15,16 @@ namespace ImpostoDeRenda.Classes.Entidades
             get { return nome; }
             set { nome = value; }
         }
-        protected string RendaAnual
+        protected double RendaAnual
         {
             get { return rendaAnual; }
             set { rendaAnual = value; }
         }
-        protected string GastoSaude
+        protected double GastoSaude
         { get { return gastoSaude; } }
 
         //Construtor
-        protected PessoaFisica(string nome, string rendaAnual, string gastoSaude)
+        protected PessoaFisica(string nome, double rendaAnual, double gastoSaude)
         {
             this.nome = nome;
             this.rendaAnual = rendaAnual;
@@ -32,17 +32,13 @@ namespace ImpostoDeRenda.Classes.Entidades
         }
         //Método
         abstract protected double Imposto();
-        {    double imposto;
-            if (rendaAnual > 20000.00)
-            {
-                imposto = rendaAnual * 0.25 - gastoSaude * 0.50;
-            }
-            else
-            {
-                imposto = rendaAnual * 0.15 - gastoSaude* 0.50;
+        
 
             
 
         
 
 }
+}
+
+
